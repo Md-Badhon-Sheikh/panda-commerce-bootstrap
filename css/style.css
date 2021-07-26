@@ -1,0 +1,29 @@
+/* header style  */
+.panda-bg-info{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.margin-bottom{
+    margin-bottom: 150px;
+}
+.price{
+    color: #FF136F;
+}
+.btn-by-now:hover{
+    color: #fff;
+}
+.btn-by-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+}
+/* categories styles  */
+.categories img{
+    width: 100px;
+}
+.categories-item{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
